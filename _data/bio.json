@@ -3,29 +3,27 @@
     "name": "Jayden Cruz",
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/201418396?v=4",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "jaydenpc@hawaii.edu",
+    "phone": "808-381-4402",
+    "website": "https://jaydenpc.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028.",
+    "location": { "address": "", "postalCode": "96706", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jaydenpc", "url": "https://github.com/jaydenpc" },
+      { "network": "linkedin", "username": "jaydenpc", "url": "https://www.linkedin.com/in/jayden-patrick-cruz-866098354/" },
+      { "network": "instagram", "username": "notjaydenc", "url": "https://www.instagram.com/notjaydenc/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Baking" },
+    { "name": "Video Games" },
+    { "name": "Basketball/Volleyball" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Common Lisp" ]
     },
     {
       "name": "Toolsets/OS",
