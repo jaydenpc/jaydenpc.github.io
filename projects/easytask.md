@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/task-management-logo.png
 title: "EasyTask"
 date: 2026-01-14
 published: true
