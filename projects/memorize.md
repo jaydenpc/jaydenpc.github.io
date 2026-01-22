@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/memorize.webp
 title: " Memorize"
-date: 2026-01-14
+date: 2025-05-21
 published: true
 labels:
   - XCode
