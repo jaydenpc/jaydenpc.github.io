@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: img/task-management-logo.png
+image: img/memorize.webp
 title: " Memorize"
 date: 2026-01-14
 published: true
 labels:
-  - Angular
-  - CSS
-  - HTML
-  - TypeScript
+  - XCode
+  - Swift
+  - Web App
 summary: "I developed a website that can hold, add, delete, and edit tasks for a list of users"
 ---
 
