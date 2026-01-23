@@ -10,7 +10,7 @@ labels:
   - TypeScript
 ---
 <figure>
-  <img width="2000px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
+  <img width="800px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
   <figurecaption> An example of TypeScript code for a 'WOD' </figurecaption>
 </figure>
 
