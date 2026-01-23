@@ -15,9 +15,7 @@ labels:
 </figure>
 
 
-<br></br>
-<br></br>
-
+<br>
 
 
 ## My Beginning with TypeScript
