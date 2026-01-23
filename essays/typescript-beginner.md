@@ -9,10 +9,10 @@ labels:
   - Software Engineering
   - TypeScript
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
-<caption> An example of TypeScript code for a 'WOD' </caption>
-
+<figure><
+  <img width="2000px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
+  <figurecaption> An example of TypeScript code for a 'WOD' </figurecaption>
+</figure>
 
 ## My Beginning with TypeScript
 
