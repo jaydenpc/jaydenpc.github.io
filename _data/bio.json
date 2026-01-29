@@ -11,12 +11,14 @@
     "profiles": [
       { "network": "github", "username": "jaydenpc", "url": "https://github.com/jaydenpc" },
       { "network": "linkedin", "username": "jaydenpc", "url": "https://www.linkedin.com/in/jayden-patrick-cruz-866098354/" },
-      { "network": "instagram", "username": "notjaydenc", "url": "https://www.instagram.com/notjaydenc/" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Robotics" },
+    { "name": "Data Science" },
+    { "name": "Machine Learning" },
+    
     { "name": "Video Games" },
     { "name": "Basketball/Volleyball" },
   ],
@@ -27,7 +29,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Eclipse", "Git/GitHub", "UNIX",]
+      "keywords": [ "MacOS", "Eclipse", "Git/GitHub",]
     }
   ],
   "education": [
