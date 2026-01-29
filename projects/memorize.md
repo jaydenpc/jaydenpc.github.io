@@ -9,7 +9,7 @@ labels:
   - XCode
   - Swift
   - Mobile App
-summary: "I developed a website that can hold, add, delete, and edit tasks for a list of users"
+summary: "I developed a mobile app demo for a Memorize Card Game"
 ---
 
 <div class="text-center p-4">
@@ -17,8 +17,8 @@ summary: "I developed a website that can hold, add, delete, and edit tasks for a
   <img width="200px" src="../img/memorizeshow.png" class="img-thumbnail" >
 </div>
 
-EasyTask is an ongoing demo for a mobile app as I continute to hone my skills using Angular/TypeScript. The goal of EasyTask is to provide users with the 
-ability to store and access data using different Angular components. This website can be seen as a task checklist for a stored amount of users. Overall, through this project I gained experience in using the Angular CLI, as well as more experience in HTML, CSS, and TypeScript.
+Memorize is an ongoing mobile app ongoing demo made through Swift on Xcode. The goal of Memorize was to sharpen my skills and practice using the Swift User Interface. The Memorize Demo can change the icon on the cards and add and delete the cards. The cards also can change dynamically based on the user's device.  
+
 
 You can see the the project at this link: https://github.com/jaydenpc/easyTask
 
