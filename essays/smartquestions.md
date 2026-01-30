@@ -23,10 +23,10 @@ and how you say it.
 
 ## A Smart Question
 
-One example of a "smart" question is this [question] (https://stackoverflow.com/questions/74587029/by-pass-select-a-certificate-prompt-in-chrome-using-selenium-python) from Stack Overflow: 
+One example of a "smart" question is this question from Stack Overflow: 
 
 <a href="https://stackoverflow.com/questions/74587029/by-pass-select-a-certificate-prompt-in-chrome-using-selenium-python" target="_blank" rel="noopener">
-  Question
+  Smart Question
 </a>
 
 It's a 'smart' question because the user had a problem with a certain portion of his code with Python in chrome. This user was prepared and formatted the
@@ -36,7 +36,11 @@ replying with answers.
 
 ## A Not So Smart Questions
 
-One example of a not so smart question is this [question] (https://stackoverflow.com/questions/79879161/call-a-key-in-python-dictionary) also from Stack Overflow: 
+One example of a not so smart question is this question also from Stack Overflow: 
+
+<a href="https://stackoverflow.com/questions/79879161/call-a-key-in-python-dictionary" target="_blank" rel="noopener">
+  Not Smart Question
+</a>
 
 This question isn't a 'smart' questions for multiple reasons. This user asked a simple question on calling a certain index in a Python Dictonaries. This user 
 was not prepared because this question can be simply answered with a simple google search or a quick search with Python Dictionaries. Also, this user has
