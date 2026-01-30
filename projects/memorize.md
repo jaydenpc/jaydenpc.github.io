@@ -22,3 +22,7 @@ Memorize is an ongoing mobile app ongoing demo made through Swift on Xcode. The 
 
 You can see the the project at this link: https://github.com/jaydenpc/memorize
 
+<a href="https://github.com/jaydenpc/memorize" target="_blank" rel="noopener">
+  Link to Memorize
+</a>
+
