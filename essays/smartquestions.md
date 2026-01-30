@@ -25,6 +25,10 @@ and how you say it.
 
 One example of a "smart" question is this [question] (https://stackoverflow.com/questions/74587029/by-pass-select-a-certificate-prompt-in-chrome-using-selenium-python) from Stack Overflow: 
 
+<a href="https://stackoverflow.com/questions/74587029/by-pass-select-a-certificate-prompt-in-chrome-using-selenium-python" target="_blank" rel="noopener">
+  Question
+</a>
+
 It's a 'smart' question because the user had a problem with a certain portion of his code with Python in chrome. This user was prepared and formatted the
 question for a direct answer. The user already looked on the web, tried previous solutions and failed, and now resulted in asking for a solution with
 their previous code and errors that appear on his screen. Also, his question was presentable with good formating, which resulted with a couple developers
