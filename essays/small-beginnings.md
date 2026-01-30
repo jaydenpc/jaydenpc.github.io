@@ -23,4 +23,3 @@ Overall, Software Engineering is a rigorous decision for a career, but it's rewa
 
 
 
-## 
