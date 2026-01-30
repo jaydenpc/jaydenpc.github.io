@@ -9,7 +9,7 @@ labels:
   - UNIX
   - C
   - ICS 212
-summary: "In my ICS 212 class, I created a Bank Database and User Interface"
+summary: "In my Program Structures class, I created a Bank Database and User Interface"
 ---
 
 <div class="text-center p-4">
