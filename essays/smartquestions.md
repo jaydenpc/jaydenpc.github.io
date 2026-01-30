@@ -10,7 +10,7 @@ labels:
 ---
 
 Smart Questions are important for Software Engineers because they are a necessary tool to communicate with sources to recieve answers to many problems.
-Many software engineers will go through syntax and semantics errors. Many software engineers will go through interface errors. No matter if 
+Many software engineers will go through syntax and semantics errors. Many software engineers will go through interface errors. Doesn't matter if 
 they are a software engineer for 2 years or 10 years, humans don't know everything. But what sets a good software engineer and a great software 
 engineer apart is the ability to ask "good" questions
 
@@ -26,7 +26,7 @@ and how you say it.
 One example of a "smart" question is this question from Stack Overflow: 
 
 <a href="https://stackoverflow.com/questions/74587029/by-pass-select-a-certificate-prompt-in-chrome-using-selenium-python" target="_blank" rel="noopener">
-  Smart Question
+  Link to a Smart Question
 </a>
 
 It's a 'smart' question because the user had a problem with a certain portion of his code with Python in chrome. This user was prepared and formatted the
@@ -39,7 +39,7 @@ replying with answers.
 One example of a not so smart question is this question also from Stack Overflow: 
 
 <a href="https://stackoverflow.com/questions/79879161/call-a-key-in-python-dictionary" target="_blank" rel="noopener">
-  Not Smart Question
+  Link to a Not Smart Question
 </a>
 
 This question isn't a 'smart' questions for multiple reasons. This user asked a simple question on calling a certain index in a Python Dictonaries. This user 
