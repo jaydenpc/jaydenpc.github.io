@@ -13,11 +13,14 @@ summary: "In my Program Structures class, I created a Bank Database and User Int
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/memorizecode.png" class="img-thumbnail" >
-  <img width="200px" src="../img/memorizeshow.png" class="img-thumbnail" >
+  <img width="200px" src="../img/function.png" class="img-thumbnail" >
+  <img width="200px" src="../img/userinter.png" class="img-thumbnail" >
 </div>
 
-Memorize is an ongoing mobile app ongoing demo made through Swift on Xcode. The goal of Memorize was to sharpen my skills and practice using the Swift User Interface. The Memorize Demo can change the icon on the cards and add and delete the cards. The cards also can change dynamically based on the user's device.  
+This Bank Database is a finished project made with C in my Program Structures class at the University of Manoa. I was responsible for the backend functions and the frontend user interface. The goal of the project was to create a record system for a bank so that it could hold information like a
+person's address, name, and a person's ID. This project is fully functional with a interface where the user types out their information can be accessed
+and saved in a file whenever the program exits. 
 
+Overall, I learned many things through this experience, I gained more experience with UNIX and UNIX commands, also experience with C, and using different data structures in C. 
 
 
