@@ -9,13 +9,12 @@ labels:
   - Software Engineering
   - TypeScript
 ---
-<figure>
-  <img width="400px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
-  <figurecaption> An example of TypeScript code for a 'WOD' </figurecaption>
-</figure>
+
+<img width="400px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
 
 
-## My Beginning with TypeScript
+
+
 
 Is TypeScript hard to use? Is TypeScript easy to learn? Many people have different questions when starting a new language. So far I have used TypeScript for less than a month now and I can say it's a pretty useful language. I first have seen Typescript over the 2025 winter break, when I was practicing angular and had to make different components with TypeScript. Beginning with the basics to JavaScript, the assignments helped prepared me with improving with TypeScript. 
 
