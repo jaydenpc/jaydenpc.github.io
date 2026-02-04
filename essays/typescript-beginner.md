@@ -8,6 +8,7 @@ published: true
 labels:
   - Software Engineering
   - TypeScript
+  - Essay
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
