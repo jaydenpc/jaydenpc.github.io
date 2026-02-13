@@ -13,6 +13,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/error.png">
+<img width="200px" src="../img/error1.png">
 
 Many people see coding standards as a headache and a pain to deal with. And I am one of them. Coding standards are definitely a useful tool that every software engineer needs to master. Coding standards are used so that no matter whether it's an experienced veteran or a first time beginner, that when they see code, it's consistent and readable. Despite that, there are many pros and cons with coding standards.
 
