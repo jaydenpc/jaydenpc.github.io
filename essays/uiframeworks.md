@@ -15,17 +15,22 @@ labels:
 <img width="300px" class="rounded float-start pe-4" src="../img/bootstrapcode.png">
 <img width="300px" src="../img/bootstrap.png">
 
-Many people see coding standards as a headache and a pain to deal with. And I am one of them. Coding standards are definitely a useful tool that every software engineer needs to master. Coding standards are used so that no matter whether it's an experienced veteran or a first time beginner, that when they see code, it's consistent and readable. Despite that, there are many pros and cons with coding standards.
+UI Frameworks are an essential kit to any software engineer. Of course many can use raw CSS and HTML to build webpages and websites. But if you want modern and efficient UI, you would use a UI Framework. Over this past week, I have been using Bootstrap 5. Even with a week of experience, I can see there are many benefits and downsides. 
 
-## Glows
+## Benefits
 
-Others may say that coding standards help to produce quality code and help people learn a programming language and they're right. Coding Standards can be a major help with debugging. When seeing code isn't running on the live preview or when compiling, it's helpful to see where specifically the code went wrong, especially if there are colored indicators to show you. In comparison, when I used UNIX, if code had a few errors, it would still run but it was up to us as the programmers to search files and files to see the exact line where it went wrong. Coding standards are a great tool for quality, debugging, and overall having consistent code.
+For me, I have been using Bootstrap 5 in my Software Engineering class for many WOD's (Workout of the Day). In fact the pictures above are the code from my most recent WOD in class. With Bootstrap 5 in mind, all I can say is, it's useful, efficent, and looks good. Compared to raw CSS and HTML, I can see that the framework most uses classes through HTML for styling, positioning, and adding special features and icons. For the most part, when using Bootstrap, it lessens the need for an extra CSS stylesheet because all the styling and UI design is done through Bootstrap. And not only is it nice to have all the design mostly in one file, it also looks amazing. 
 
-## Grows
+In the photo above, we recreated a home website for a local company here in Hawaii using straight Bootstrap 5. For my classmates and I, our websites can look almost exactly like the original using Bootstrap. It's amazing to see how much you can do when you truly master a UI Framework
 
-After a week of using ESLint in VSCode, I can definitely say that I need more time to grow with coding standards. On the other hand with colored indicators, it can be very frustating to see an entire screen full of red colored indicators because of code errors. I can see that with the slightest space or indent, ESLint span the entire screen with these infamous red indicators. With the most recent Workout of the Day (WOD) in my Software Engineering class, because these WOD's are timed, I had the feeling of pressure when racing against the clock to work against these ESLint Errors. Coding errors are very useful but they can be very tedious and time consuming.
+## Downsides
+
+The biggest issue that I can see as a beginner, is that there truly is a high skill cap when using a UI Framework. When I was using Bootstrap 5, something that my classmates and I noticed, is that it's very difficult and time-tedious to use. When I do WOD's, I have to rely on the instructions, previous knowledge, and outside resources to be able to use Bootstrap correctly. There are so many different add-on's and ways of implementing a certain idea: containers, drop down menus, resizing, and repositioning. 
+
+Not to mention, when faced against time, having to use Bootstrap was a challenge. In my previous WOD's, the biggest challenge was the race against time with Bootstrap because it's all about the little details, the little gaps, margins and fonts, when recreating different websites. Not to mention, using Bootstrap can be difficult when someone who doesn't have that much experience needs specific syntax for a specific job for under a specific time. Overall, UI Frameworks can be very useful but there is a learning curver that every beginner needs to overcome.
+
+
 
 ## Conclusion
-
-Coding standards are there to raise the level of software engineers. Many people glow with them and many are still growing, but coding standards are here to stay. A wise person once said, "Practice doesn't make perfection, but makes improvement. No one is perfect". 
+UI Frameworks are efficient and useful, but also difficult and tedious. I truly believe that being able to use a UI Framework and mastering it can make or break someone's career because the ability to build webpages are an important asset to have especially during this time and age. For me, even though I lean more on the lesser experienced, I hope to use and master UI Frameworks.
 
