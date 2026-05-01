@@ -29,11 +29,6 @@ Personally, when working on my different projects in Github, some of the design 
 
 
 
-]
-
-
-
-TypeScript is definitely a language that I would like to see more of in the future.
 
 
 
