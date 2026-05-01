@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "New Beginnings: TypeScript"
+title: "The Blueprint of Software Design"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-21
+date: 2026-04-30
 published: true
 labels:
-  - Software Engineering
-  - TypeScript
+  - Design Patterns
   - Essay
 ---
 
@@ -15,21 +14,22 @@ labels:
 
 
 
+## The Ingenuity of Code Design Patterns
+
+Coding Design Patterns are different ways that people like to organize how they contain or write their code. Many people can group their code up or write their code with certain objects being created in mind, or choosing to organize their classes, objects, components a certain way. Design Patterns are used within many software engineers to be used as a blueprint when writing code and as a guideline to make our projects more organized and easier to look at. Many websites show how design patterns help with object creation, organization, and interaction. 
+
+## Conclusion
+
+Overall, Design Patterns matter because it helps code to be more readable, reusuable, and manageable. With a layout on where code goes, many other software engineers can read our code more clearly and see where different components, styles, and programs are. With code being easier to read, it also becomes easier to manage and add onto more things. Maybe another developer wanted to add another button onto the navbar, it would be easier to do when code is written with Design Patterns where fellow team members can work on different tasks without being confused. Also with similar code having Design Patterns, it can also be reused in different parts of the algorithm.
+
+Personally, when working on my different projects in Github, some of the design patterns that I have used within my code would definitely be more towards the Behavioral/Interaction Patterns. For me, when using some of the next.js and React templates, I prefer having different parts of a website in different folders like how Navbar is in one folder, Prisma Seeding is in a different folder, and the multitudes of components is in another folder. Like for example, if i needed to add another webpage, I know that with my design pattern, I can reuse another existing webpage and make a new folder because of the organization and interaction patterns of the Coding Design Pattern that I use. In conclusion, Design Patterns are a strong tool that many software developers can use when making and organizing their code.
 
 
-Is TypeScript hard to use? Is TypeScript easy to learn? Many people have different questions when starting a new language. So far I have used TypeScript for less than a month now and I can say it's a pretty useful language. I first have seen Typescript over the 2025 winter break, when I was practicing angular and had to make different components with TypeScript. Beginning with the basics to JavaScript, the assignments helped prepared me with improving with TypeScript. 
 
 
-## TypeScript vs JavaScript
-
-Reflecting on the language over the past week: TypeScript has many benefits and downsides. Coming from a JavaScript/Java background, TypeScript was pretty easy to get ahold of. Many people would say TypeScript is JavaScript with classes and types, and I would agree with them. TypeScript fills the holes that JavaScript lacks like Object Oriented Programming and the difference in types where 'Let' and 'Const' is used over the single keyword, 'Var'.
 
 
-## Practicing TypeScript
-
-In my software engineering 1 class at the University of Manoa, we have had to do introduction courses for JavaScript and ES6 from FreeCodeCamp. Doing those courses definitely gave me more clear picture when it comes to the basics with TypeScript. Especially since for both JavaScript and ES6, they both have similar syntax to TypeScript. 
-
-We also have to do daily assignments with "WOD's" (Workout of the Day). These "WOD's" are either at home or during class time and they are assignments to write algorithms to fulfill a task under a certain amount of time. I find these assignments very helpful because they help me to see how many employers would expect me to be able to write algorithms and build web apps in a short amount of time for interviews or assignments on the job. I have definitely had to redo some "WOD's" in order to sharpen my critical thinking skills to write code faster than I did the assignment the 1st time.
+]
 
 
 
