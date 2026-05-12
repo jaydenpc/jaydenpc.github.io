@@ -10,7 +10,6 @@ labels:
   - AI
   - Machine Learning
 ---
-
 <img width="400px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
 
 
@@ -68,6 +67,22 @@ I have used AI for Quality assurance, specifically in the beginning WOD's, like 
 Another use was when having to do different readings like having to start up Prisma and different technologies, I have used AI, ChatGPT to give summaries of the reading to make it easier to read.
 
 ## Impact on Learning and Understanding
+AI has impacted my learning and understanding in many ways. I enjoy how in this software engineering class, instead of banning the use of the technology, it's used as a tool to strengthen our learning. And as a student that's how I see AI, a tool to be used, not smarter than us but a database with the capacity to grow. AI has helped me learn valuable concepts of software engineering like code formating, design patterns, testing edge cases and more. 
+
+## Practical Applications
+Personally, outside of the classroom experience, I have used AI for basic recipie finding/generation for cooking and studying for final/midterm test in other classes. AI's vast knowledge and database is a strong tool that can be used for many people outside of coding and software engineering.
+
+## Challenges & Opportunities 
+A big challenge that I see that AI has is it's explanations in difficult topics. Reguarding AI, specifically ChatGPT the most, it can be very limiting in it's explanations to break things down. The explanations can definitely have a little bit of work, as well as the fact that these explanations can behind a paywall. With AI, things can usually get down to how we prompt/use the technology compared the to the actual technology itself. 
+
+## Comparative Analysis
+An important aspect that I see to learning with AI and without AI is the difference between memory retention. In usual classes, it's always memorization and with the little time that college semesters have it's always down to how much can we remember on tests. But in this ICS 314 Class, we can have AI on tests, which can be a greater level of advancement of education or the limiting factor that keeps students reliant on technology.
+
+## Future Considerations
+Future considerations in mind, I believe that AI has much more room to grow. Many potential advancements, challenges, and areas to improve for AI and can be even better in software engineering than seasoned software developers. For me, I don't have any fear about it because as much as it grows, just like humans it won't be perfect or any smarter than the people that make it. 
+
+## Conclusion
+In conclusion, AI is a powerful tool for many student, software engineers, professors, and many people across the world. In future courses, I would recommend that other software engineering courses could also be this open with use of AI just like this one. Some improvements in the course directions would also be useful to limit the overuse of AI, but in general, AI is a strong tool. No matter how big AI grows, humans will also grow too.
 
 
 
