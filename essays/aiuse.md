@@ -29,7 +29,7 @@ Personally, for the different experience WOD's like E18, where it was an introdu
 - In class Practice WODS:
 For me, I have used AI for different things in my In-class practice WOD's. I used AI to give me instant feedback on code suggestions and to give me different test cases for my working code. One example is the History of Surfing where I needed instant feedback on using a container for my images and text. Using AI, helped to make my code writing much more efficent.
 
--In class WOD's
+- In class WOD's
 Just like other WOD's, I definitely have used AI for my In Class WOD's for the various test case generation, instant feedback, fixing ESLint errors, and questions on how to implement different things. For example, a in class WOD was Maui Brewing where we had to implement an identical website using React or Next-JS under a certain amount of time. Even though it would be a better benefit for me to do it own my own strength, combining my existing skills with AI to generate a starting solution is definitely more efficent especially with my grade on the line every week.
 
 - Essays
