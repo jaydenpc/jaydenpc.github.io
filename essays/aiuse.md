@@ -10,7 +10,7 @@ labels:
   - AI
   - Machine Learning
 ---
-<img width="400px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
+<img width="400px" class="rounded float-start pe-4" src="../img/robot.jpg" >
 
 
 
