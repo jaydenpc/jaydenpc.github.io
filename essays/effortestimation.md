@@ -16,27 +16,17 @@ labels:
 <img width="400px" class="rounded float-start pe-4" src="../img/effortestimate.png" >
 
 
+## Student Event Hub Effort Estimates
 
+For me, I made my effort estimates based on the difficulty/scope of the issue and from previous experience. For example, for issue 22, where I just had to update a couple of values on the sample event cards and make minor tweaks, I put the estimate for 15 minutes. Compared to other issues where the scope is much larger like making the create event form write to the data base, I put a much larger estimate of 60-120 mins.
 
-Is TypeScript hard to use? Is TypeScript easy to learn? Many people have different questions when starting a new language. So far I have used TypeScript for less than a month now and I can say it's a pretty useful language. I first have seen Typescript over the 2025 winter break, when I was practicing angular and had to make different components with TypeScript. Beginning with the basics to JavaScript, the assignments helped prepared me with improving with TypeScript. 
+Yes, the estimates were wrong and off most of the time, but whether it was an issue that I made or someone else made, seeing the estimates were a little useful combined with the TODO list on the task helped to gauge how much time I should be spending on each task. For example, if i estimated a large amount of time on one task, it's definitely not wise to take multiple other issues at the same time.
 
+I think tracking effort was useful. For our project team, we weren't as diligent to track non-coding time, but when we met outside of class to discuss issues, it helped to discuss how much time we were spending and what issues came along, and as a group we could tackle specific issues as a team or even other team members helping to support in different tasks. 
 
-## TypeScript vs JavaScript
+For actual effort, just like practice WOD's, I used a timer and memory in when I start and finish tasks. I would say my methods are somewhat useful and efficent because even if my times weren't ultimately perfect and precise, my effort times definitely reflected how much effort and thinking went into each task. Some tasks were definitely more focused on than others and it showed through the effort times.
 
-Reflecting on the language over the past week: TypeScript has many benefits and downsides. Coming from a JavaScript/Java background, TypeScript was pretty easy to get ahold of. Many people would say TypeScript is JavaScript with classes and types, and I would agree with them. TypeScript fills the holes that JavaScript lacks like Object Oriented Programming and the difference in types where 'Let' and 'Const' is used over the single keyword, 'Var'.
-
-
-## Practicing TypeScript
-
-In my software engineering 1 class at the University of Manoa, we have had to do introduction courses for JavaScript and ES6 from FreeCodeCamp. Doing those courses definitely gave me more clear picture when it comes to the basics with TypeScript. Especially since for both JavaScript and ES6, they both have similar syntax to TypeScript. 
-
-We also have to do daily assignments with "WOD's" (Workout of the Day). These "WOD's" are either at home or during class time and they are assignments to write algorithms to fulfill a task under a certain amount of time. I find these assignments very helpful because they help me to see how many employers would expect me to be able to write algorithms and build web apps in a short amount of time for interviews or assignments on the job. I have definitely had to redo some "WOD's" in order to sharpen my critical thinking skills to write code faster than I did the assignment the 1st time.
-
-
-
-TypeScript is definitely a language that I would like to see more of in the future.
-
-
+In the future, I would change/improve my effort times/estimation through having a log to track non-coding time. Even though I tracked how much time I spent actually coding, I never thought about tracking non-coding time, and the times on the spreadsheet were just informed guesses. I would also have the person making the issue create the estimate compared to the person actually taking the issue because sometimes they are different people altogether. For me, I made alot of the tasks between my team, and had a good estimate of time taken for each task but didn't commmunicate or log it down. In conclusion, these effort estimates/log are a great way to log progress and to truly prepare ourselves and our team to conquer something as small as a small webpage, to a fully working behemoth of a website.
 
 
 
