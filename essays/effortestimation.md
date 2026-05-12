@@ -1,17 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "New Beginnings: TypeScript"
+title: "To Estimate or Not To Estimate"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-21
+date: 2026-05-11
 published: true
 labels:
   - Software Engineering
-  - TypeScript
-  - Essay
+  - Student Event Hub
+  - Final Project
+  - Github Organization
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/typescriptCode.png" >
+<img width="400px" class="rounded float-start pe-4" src="../img/thinking.jpg" >
 
 
 
