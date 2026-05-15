@@ -4,7 +4,7 @@ type: essay
 title: "Smart Questions vs Not Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-29
-published: true
+published: false
 labels:
   - Stack Overflow
 ---
