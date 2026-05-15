@@ -24,11 +24,18 @@ Memorize is an ongoing mobile app ongoing demo made through Swift on Xcode. The 
 
 You can see the the project at this link: https://github.com/jaydenpc/memorize
 
+<ul>
+<li>
 <a href="https://student-event-hub.github.io/" target="_blank" rel="noopener">
   Student Event Hub Organization
 </a>
+</li>
+<li>
 <a href="https://student-event-hub.vercel.app/" target="_blank" rel="noopener">
   Student Event Hub Application
 </a>
+</li>
+
+</ul>
 
 
