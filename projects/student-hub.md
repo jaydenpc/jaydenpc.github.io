@@ -15,8 +15,10 @@ summary: "A centralized bulletin board for the UH Community"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/memorizecode.png" class="img-thumbnail" >
-  <img width="200px" src="../img/memorizeshow.png" class="img-thumbnail" >
+  <img width="200px" src="../img/final1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/final2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/final3.png" class="img-thumbnail" >
+  <img width="200px" src="../img/final4.png" class="img-thumbnail" >
 </div>
 
 Memorize is an ongoing mobile app ongoing demo made through Swift on Xcode. The goal of Memorize was to sharpen my skills and practice using the Swift User Interface. The Memorize Demo can change the icon on the cards and add and delete the cards. The cards also can change dynamically based on the user's device.  
