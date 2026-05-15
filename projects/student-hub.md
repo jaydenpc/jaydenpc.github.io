@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/studenticon.jpeg
 title: "Student Event Hub"
-date: 2025-05-21
+date: 2026-05-00
 published: true
 labels:
   - Agile Project Management
