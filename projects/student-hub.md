@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/memorize.webp
+image: img/studenticon.jpeg
 title: "Student Event Hub"
 date: 2025-05-21
 published: true
