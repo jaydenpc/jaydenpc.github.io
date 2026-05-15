@@ -22,7 +22,7 @@ summary: "A centralized bulletin board for the UH Community"
 Memorize is an ongoing mobile app ongoing demo made through Swift on Xcode. The goal of Memorize was to sharpen my skills and practice using the Swift User Interface. The Memorize Demo can change the icon on the cards and add and delete the cards. The cards also can change dynamically based on the user's device.  
 
 
-You can see the the project at this link: https://github.com/jaydenpc/memorize
+
 
 <ul>
 <li>
