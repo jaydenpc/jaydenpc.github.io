@@ -15,10 +15,10 @@ summary: "A centralized bulletin board for the UH Community"
 ---
 
 <div class="text-center p-4">
-  <img width="800px" src="../img/final1.png" class="img-thumbnail" >
-  <img width="800px" src="../img/final2.png" class="img-thumbnail" >
-  <img width="800px" src="../img/final3.png" class="img-thumbnail" >
-  <img width="800px" src="../img/final4.png" class="img-thumbnail" >
+  <img width="500px" src="../img/final1.png" class="img-thumbnail" >
+  <img width="500px" src="../img/final2.png" class="img-thumbnail" >
+  <img width="500px" src="../img/final3.png" class="img-thumbnail" >
+  <img width="500px" src="../img/final4.png" class="img-thumbnail" >
 </div>
 
 Three of my teammates and I created a web application called the Student Event Hub to create a centralized bulletin board for the UH Community to hold, save, and track various student-led events happening on campus. This was part of our ICS 314, Software Engineering final project, where we had about four weeks to implement a fully functioning application.
