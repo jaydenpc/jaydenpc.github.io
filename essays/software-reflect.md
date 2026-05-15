@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What's next?: Software Engineering"
+title: "What's Next?: Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-14
 published: true
