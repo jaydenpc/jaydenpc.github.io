@@ -9,10 +9,11 @@ labels:
   - Design Patterns
   - Essay
 ---
-
+<div>
 <img width="450px" class="rounded float-start pe-4" src="../img/design1.jpeg" >
 <img width="450px" class="rounded float-start pe-4" src="../img/design2.jpeg" >
 <img width="200px" class="rounded float-start pe-4" src="../img/design3.jpeg" >
+</div>
 
 
 
